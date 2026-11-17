@@ -1,4 +1,4 @@
-# Customer-churn-analysis-excel
+# Customer-churn-analysis-
 
 ## 📑TABLE OF CONTENT
 *   [PROJECT OVERVIEW]
