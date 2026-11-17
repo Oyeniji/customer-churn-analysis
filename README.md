@@ -1,4 +1,4 @@
-# Customer-churn-analysis-
+# Customer-churn-analysis
 
 ## 📑TABLE OF CONTENT
 *   [PROJECT OVERVIEW]
