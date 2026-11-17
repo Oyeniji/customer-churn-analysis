@@ -1,16 +1,16 @@
 # Customer-churn-analysis
 
 ## 📑TABLE OF CONTENT
-*   [PROJECT OVERVIEW]
-*   DATA SOURCE
-*   TOOLS
-*   OBJECTIVES & KEY PERFORMANCE INDICATORS
-*   DATA CLEANING
-*   DATA PREPROCESSING
-*   DATA ANALYSIS
-*   DASHBOARD
-*   KEY INSIGHTS UNCOVERED
-*   STRATEGIC RECOMMENDATIONS
+*   ![Customer-churn-analysis OVERVIEW](https://github.com/Oyeniji/customer-churn-analysis#customer-churn-analysis-overview)
+*   ![DATA SOURCE](https://github.com/Oyeniji/customer-churn-analysis#datasource)
+*   ![TOOLS](https://github.com/Oyeniji/customer-churn-analysis#%EF%B8%8Ftools)
+*   ![OBJECTIVES & KEY PERFORMANCE INDICATORS](https://github.com/Oyeniji/customer-churn-analysis#objectives--key-performance-indicators)
+*   ![DATA CLEANING](https://github.com/Oyeniji/customer-churn-analysis#data-cleaning)
+*   ![DATA PREPROCESSING](https://github.com/Oyeniji/customer-churn-analysis#%EF%B8%8Fdata-preprocessing)
+*   ![DATA ANALYSIS](https://github.com/Oyeniji/customer-churn-analysis#data-analysis)
+*   ![DASHBOARD](https://github.com/Oyeniji/customer-churn-analysis#dashboard)
+*   ![KEY INSIGHTS UNCOVERED](https://github.com/Oyeniji/customer-churn-analysis#-key-insights-uncovered)
+*   ![STRATEGIC RECOMMENDATIONS](https://github.com/Oyeniji/customer-churn-analysis#-strategic-recommendations)
 
 ##  Customer-churn-analysis OVERVIEW
 This project analyzes customer churn data for a fictional telecommunications company, Databel.The analysis explores demographics, contract types, data consumption, and competitor offers using pivot tables and interactive dashboards.
