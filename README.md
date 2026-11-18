@@ -50,7 +50,6 @@ KEY PERFORMANCE INDICATORS
 
 ##  📊DASHBOARD
 ![Customer Churn Dashboard](https://github.com/Oyeniji/customer-churn-analysis/blob/main/Databel%20Analysis%20Dashboard.png)
-
 > Click the image above to see a preview of the final dashboard.
 
 ## 🔍 KEY INSIGHTS UNCOVERED
